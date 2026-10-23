@@ -1,2 +1,2 @@
-/* mensaje en consola que se vea el objeto y que sea ariags*/
+// listas objetos y metodos probar 
 
